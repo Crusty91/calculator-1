@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/Crusty91/calculator-1/workflows/Node.js%20CI/badge.svg)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
